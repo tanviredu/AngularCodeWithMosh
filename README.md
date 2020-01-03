@@ -1,2 +1,2 @@
 # AngularCodeWithMosh
-this ia a rntire angular project with firebase
+this ia a entire angular project with firebase
